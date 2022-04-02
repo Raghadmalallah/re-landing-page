@@ -24,3 +24,11 @@ header, footer {
     color: beige;
     font-weight: bolder;
 }
+
+.form-style {
+background-color: #D5AB9D;
+padding: 20px 0 20px
+}
+#form-text{
+    text-align:center;
+}
