@@ -1,0 +1,21 @@
+body {
+width: 80%;
+margin: 0 auto;
+position: relative;
+font-family: 'Courier New', Courier, monospace;
+}
+
+.text-right {
+text-align: right;
+}
+
+li {
+    display: inline;
+}
+
+h1, h2, p {
+    text-align: center;
+}
+.text-center {
+text-align: center;
+}
