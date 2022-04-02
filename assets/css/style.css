@@ -23,6 +23,13 @@ header, footer {
     background-color: #81626C;
     color: beige;
     font-weight: bolder;
+    padding: 6px;
+    border-bottom: 10px solid #ddaf94;
+
+}
+a {
+    color: azure;
+    text-decoration: none;
 }
 
 form {
@@ -30,7 +37,7 @@ form {
     margin: 0 auto;
     width: 500px;
     padding: 10px;
-    border: 10px solid #faf5f2;
+    border: 5px solid #faf5f2;
     border-radius: 20px;
   }
   
