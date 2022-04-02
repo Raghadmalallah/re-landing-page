@@ -1,5 +1,4 @@
 body {
-width: 80%;
 margin: 0 auto;
 position: relative;
 font-family: 'Courier New', Courier, monospace;
@@ -18,4 +17,10 @@ h1, h2, p {
 }
 .text-center {
 text-align: center;
+}
+
+header, footer {
+    background-color: #81626C;
+    color: beige;
+    font-weight: bolder;
 }
