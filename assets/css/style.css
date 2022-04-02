@@ -25,10 +25,41 @@ header, footer {
     font-weight: bolder;
 }
 
-.form-style {
-background-color: #D5AB9D;
-padding: 20px 0 20px
-}
-#form-text{
-    text-align:center;
+form {
+    /* Center the form on the page */
+    margin: 0 auto;
+    width: 500px;
+    padding: 10px;
+    border: 10px solid #faf5f2;
+    border-radius: 20px;
+  }
+  
+  label {
+    display: inline-block;
+    width: 100px;
+  }
+  
+  input,
+  textarea {
+    box-sizing: border-box;
+    width: 300px;
+    border: 1px solid #4f4846;
+  }
+  
+  textarea {
+    vertical-align: top;
+    height: 60px;
+  }
+
+  button {
+    background-color: #895442;
+    height: 40px;
+  width: 120px;
+  color: #fdf8f5;
+  }
+section{
+    margin: 0 auto;
+    background-color: #D5AB9D;
+    border: 1px solid #81626C;
+    padding: 20px;
 }
